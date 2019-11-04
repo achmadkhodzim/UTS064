@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">UTS_PAB_064</string>
+    <string name="intro_text">FRUIT PEDIA</string>
+    <string name="donuts">Jeruk Oren</string>
+    <string name="ice_cream_sandwiches">Pear Export</string>
+    <string name="froyo">Apel Merah</string>
+    <string name="donut_order_message">Pesan donut.</string>
+    <string name="ice_cream_order_message">Pesan ice cream
+        sandwich.</string>
+    <string name="froyo_order_message">Pesan FroYo.</string>
+    <string name="order_label_text">Form Pemesanan</string>
+    <string name="note_label_text">Note:</string>
+    <string name="name_label_text">Nama</string>
+    <string name="enter_name_hint">Isi nama disini</string>
+    <string name="ukuran_label_text">Jumlah Pembelian</string>
+    <string name="enter_jumlah_hint">Isi alamat lengkap</string>
+    <string name="jumlah_label_text">Alamat</string>
+    <string name="enter_note_hint">Tambah Catatan</string>
+    <string name="harga_froyo">(Rp. 15000/kg)</string>
+    <string name="harga_icecream">(Rp. 10000/kg)</string>
+    <string name="harga_donut">(Rp. 5000/kg)</string>
+    <string name="order_success">Pemesanan Berhasil</string>
+    <string name="isi_order">Ini Isi</string>
+    <string name="home_button">HOME</string>
+    <string name="submit_order">Proses</string>
+    <string name="anggur">Anggur Manis</string>
+    <string name="harga_anggur">(Rp. 10000/kg)</string>
+    <string name="beli">Beli</string>
+    <string name="nomorhape">No. Telp/HP</string>
+
+    <string name="enter_nope_hint">Isi no telp di sini</string>
+    <string name="radio_transfer">transfer</string>
+    <string name="radio_cod">Cash on Delivery</string>
+    <string name="carabayar">Pilih Cara pembayaran</string>
+
+    <string-array name="labels_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+</resources>
